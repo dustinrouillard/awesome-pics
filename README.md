@@ -6,4 +6,4 @@ Collection of .pics domains
 🌱  - [flax.pics](https://flax.pics) \
 🍁  - [kush.pics](https://kush.pics) \
 🐶  - [samoyed.pics](https://samoyed.pics) \
-🐈  - [siamese.pics](https://siamese.pics) \
+🐈  - [siamese.pics](https://siamese.pics)
