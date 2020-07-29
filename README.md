@@ -8,4 +8,5 @@ Collection of .pics domains
 🐶  - [samoyed.pics](https://samoyed.pics) \
 🐈  - [siamese.pics](https://siamese.pics) \
 🐈  - [burmese.pics](https://burmese.pics) \
-😾  - [marley.pics](https://marley.pics)
+😾  - [marley.pics](https://marley.pics) \
+🐶  - [husky.pics](https://husky.pics)
